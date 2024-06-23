@@ -707,28 +707,28 @@ export const Footer = () => {
       src: "/images/hernan.jpg",
       key: "Javier",
 
-      text: "Productor y realizador audiovisual. Integré y dirigí equipos de producción tanto a nivel público como privado adoptando como eje profesional la importancia de entender el lenguaje audiovisual como parte central de la estrategia comunicacional. Realicé numerosas campañas comerciales y dirigí la producción audiovisual de contenidos de comunicación del Gobierno Nacional entre 2019 y 2023.",
+      text: "xxx",
     },
 
     {
       name: "Florencia Nussbaum",
       src: "/images/flor.jpeg",
       key: "Gustavo",
-      text: "Diseñador gráfico. Entiendo la emisión gráfica como el acto de comunicación visual en el cual el gesto gráfico condensa y corporiza aquello que se busca (o es bueno) decir. Mi trayectoria profesional resultó en especializarme en la mirada estratégica que fortalece el acto de comunicación. Estuve a cargo del diseño de la comunicación visual de la Ciudad de Buenos Aires y, recientemente, del Gobierno Nacional.",
+      text: "xxx",
 
     },
     {
       name: "Ana Nigri",
       src: "/images/ana.jpeg",
       key: "Gustavo",
-      text: "Diseñador gráfico. Entiendo la emisión gráfica como el acto de comunicación visual en el cual el gesto gráfico condensa y corporiza aquello que se busca (o es bueno) decir. Mi trayectoria profesional resultó en especializarme en la mirada estratégica que fortalece el acto de comunicación. Estuve a cargo del diseño de la comunicación visual de la Ciudad de Buenos Aires y, recientemente, del Gobierno Nacional.",
+      text: "xxx",
 
     },
     {
       name: "Javier Cerruti",
       src: "/images/javi.jpeg",
       key: "Gustavo",
-      text: "Diseñador gráfico. Entiendo la emisión gráfica como el acto de comunicación visual en el cual el gesto gráfico condensa y corporiza aquello que se busca (o es bueno) decir. Mi trayectoria profesional resultó en especializarme en la mirada estratégica que fortalece el acto de comunicación. Estuve a cargo del diseño de la comunicación visual de la Ciudad de Buenos Aires y, recientemente, del Gobierno Nacional.",
+      text: "xxx",
 
     }
 
@@ -746,12 +746,12 @@ export const Footer = () => {
       <div className="titleWrapper">
         <div className="titleContent">
           <p className='title'>
-            somos
+            nosotros
           </p>
         </div>
         <div className="subtitleContent">
           <p className='subTitle'>
-            un equipo que busca resolver<br/>cada nueva situación con&nbsp;potencia,<br/>buen diseño y eficacia. 
+            xxx<br/>xxx<br/>xxx
           </p>
         </div>
       </div>
@@ -759,18 +759,18 @@ export const Footer = () => {
       <div className="textsContainer">
 
         <div className="textContent">
-          <div className="textTitle">campañas</div>
-          <div className="text">Implementamos la solución visual de campañas comerciales, públicas<br/>y políticas en la dimensión<br/>y escala adecuadas para cada circunstancia.</div>
+          <div className="textTitle">xxx</div>
+          <div className="text">xxx</div>
         </div>
         <div className="textContent">
-          <div className="textTitle">ciudades</div>
-          <div className="text">Abordamos la comunicación visual que la gestión de ciudades requiere con el adecuado cruce entre las demandas de la gestión<br/>y las prioridades de la comunidad.</div>
+          <div className="textTitle">xxx</div>
+          <div className="text">xxx</div>
         </div> <div className="textContent">
-          <div className="textTitle">espacios</div>
-          <div className="text">Diseñamos espacios expositivos de alto impacto, combinando poder con sutileza. Experiencias sensoriales, bellas y efectivas que perfeccionan relatos<br/>y fortalecen marcas.</div>
+          <div className="textTitle">xxx</div>
+          <div className="text">xxx</div>
         </div> <div className="textContent">
-          <div className="textTitle">consultoría</div>
-          <div className="text">Sabemos orientar, diseñar<br/>y optimizar equipos de diseño y producción audiovisual<br/>de organizaciones en la búsqueda de maximizar<br/>sus potencialidades.</div>
+          <div className="textTitle">xxx</div>
+          <div className="text">xxx</div>
         </div>
 
       </div>
@@ -820,8 +820,8 @@ export const Footer = () => {
             Les Mandingues
           </div>
           <div className="phrase">
-            <p className='f-30 f-helvetica f-heavy lh-25 ls-n-2 c-gray'><b>comunicación</b></p>
-            <p className='f-30 f-helvetica f-heavy lh-25 ls-n-2 c-gray'><b>visual</b></p>
+            <p className='f-30 f-helvetica f-heavy lh-25 ls-n-2 c-gray'><b>Estudio</b></p>
+            <p className='f-30 f-helvetica f-heavy lh-25 ls-n-2 c-gray'><b>audiovisual</b></p>
           </div>
           <div className="city">
             <p>
@@ -831,7 +831,7 @@ export const Footer = () => {
         </div>
         <div className="right">
           <div className="contact">
-            cerrutiwald@gmail.com +54 911-0000 0000 <p>Buenos Aires</p>
+            mandinga.mov@gmail.com +54 911-0000 0000 <p>Buenos Aires</p>
           </div>
         </div>
       </div>
