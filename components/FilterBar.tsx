@@ -7,38 +7,44 @@ export const FilterBar = ({ activeFilter, setActiveFilter }: { activeFilter?: st
     const items = [
         {
             key: "Digital",
-            name: "Digital",
+            name: "Entrevistas",
             text: "Identidad es aquello que distingue.<br/>Requiere implementar adecuadas<br/>decisiones estratégicas.",
             text2: "Identidad es aquello<br/>que distingue.<br/>Requiere implementar adecuadas decisiones<br/>estratégicas."
         },
         {
             key: "Cine",
-            name: "Cine",
+            name: "Teatro",
             text: "Implementamos la solución visual<br/>de campañas del universo comercial,<br/>público y político que estimulan sentidos<br/>y potencian relatos.",
             text2: "Implementamos la solución visual de campañas<br/>del universo comercial, público y político<br/>que estimulan sentidos<br/>y potencian relatos."
 
         },
         {
             key: "BTS",
-            name: "BTS",
+            name: "Documental",
             text: "La comunicación visual de ciudades<br/>requiere diseñar experiencias ciudadanas<br/>útiles y eficientes; es lo que sabemos hacer.",
             text2: "La comunicación visual<br/>de ciudades requiere diseñar experiencias ciudadanas útiles<br/>y eficientes;<br/>es lo que sabemos hacer."
         },
         {
             key: "Compol",
-            name: "Compol",
+            name: "BTS",
             text: "Diseñamos espacios<br/>expositivos de alto impacto<br/>que expresan y fortalecen<br/>la imagen de marca.",
             text2: "Diseñamos espacios<br/>expositivos de alto impacto<br/>que expresan y fortalecen<br/>la imagen de marca."
         },
         {
             key: "Coberturas",
-            name: "Coberturas",
+            name: "Contenidos",
+            text: "Cada proyecto a desarrollar<br/>es un nuevo desafío que<br/>nos gusta transitar.",
+            text2: "Cada proyecto a desarrollar es un nuevo desafío<br/>que nos gusta transitar."
+        },
+        {
+            key: "Coberturas",
+            name: "Videoclips",
             text: "Cada proyecto a desarrollar<br/>es un nuevo desafío que<br/>nos gusta transitar.",
             text2: "Cada proyecto a desarrollar es un nuevo desafío<br/>que nos gusta transitar."
         },
         {
             key: "nosotros",
-            name: "nosotros",
+            name: "Nosotros",
             text: "",
             text2: ""
         },

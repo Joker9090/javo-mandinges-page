@@ -134,7 +134,7 @@ const config: ItemType[] = [
     // clickeable: true,
     title: _text as string,
     titleColor: "white",
-    descriptionColor: "#FF5500",
+    descriptionColor: "#C10230",
 
     description: _description as string,
     textAlign: "left",
