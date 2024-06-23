@@ -141,7 +141,7 @@ const config: ItemType[] = [
     extraClass: "textModule",
 
   },
-
+/*
   {
     type: "large",
     details: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quia dolor debitis corrupti voluptate tenetur tempore sunt cupiditate. Deleniti, eligendi.",
@@ -350,7 +350,7 @@ const config: ItemType[] = [
     secondaryMedia: [
     ]
   },
-
+*/
   /*type: "small",
   details: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quia dolor debitis corrupti voluptate tenetur tempore sunt cupiditate. Deleniti, eligendi.",
   title: "",
@@ -703,20 +703,35 @@ export const Footer = () => {
   ]
   const biographies = [
     {
-      name: "Javier Cerruti",
-      src: "/images/fotojavi.jpg",
+      name: "Hernán Alcaraz",
+      src: "/images/hernan.jpg",
       key: "Javier",
 
       text: "Productor y realizador audiovisual. Integré y dirigí equipos de producción tanto a nivel público como privado adoptando como eje profesional la importancia de entender el lenguaje audiovisual como parte central de la estrategia comunicacional. Realicé numerosas campañas comerciales y dirigí la producción audiovisual de contenidos de comunicación del Gobierno Nacional entre 2019 y 2023.",
     },
 
     {
-      name: "Gustavo Wald",
-      src: "/images/img12.jpeg",
+      name: "Florencia Nussbaum",
+      src: "/images/flor.jpeg",
+      key: "Gustavo",
+      text: "Diseñador gráfico. Entiendo la emisión gráfica como el acto de comunicación visual en el cual el gesto gráfico condensa y corporiza aquello que se busca (o es bueno) decir. Mi trayectoria profesional resultó en especializarme en la mirada estratégica que fortalece el acto de comunicación. Estuve a cargo del diseño de la comunicación visual de la Ciudad de Buenos Aires y, recientemente, del Gobierno Nacional.",
+
+    },
+    {
+      name: "Ana Nigri",
+      src: "/images/ana.jpeg",
+      key: "Gustavo",
+      text: "Diseñador gráfico. Entiendo la emisión gráfica como el acto de comunicación visual en el cual el gesto gráfico condensa y corporiza aquello que se busca (o es bueno) decir. Mi trayectoria profesional resultó en especializarme en la mirada estratégica que fortalece el acto de comunicación. Estuve a cargo del diseño de la comunicación visual de la Ciudad de Buenos Aires y, recientemente, del Gobierno Nacional.",
+
+    },
+    {
+      name: "Javier Cerruti",
+      src: "/images/javi.jpeg",
       key: "Gustavo",
       text: "Diseñador gráfico. Entiendo la emisión gráfica como el acto de comunicación visual en el cual el gesto gráfico condensa y corporiza aquello que se busca (o es bueno) decir. Mi trayectoria profesional resultó en especializarme en la mirada estratégica que fortalece el acto de comunicación. Estuve a cargo del diseño de la comunicación visual de la Ciudad de Buenos Aires y, recientemente, del Gobierno Nacional.",
 
     }
+
   ]
   const [activeBio, setActiveBio] = useState<string>("")
   const [bioText, setBioText] = useState<string>("")
