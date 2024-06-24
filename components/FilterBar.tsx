@@ -7,7 +7,7 @@ export const FilterBar = ({ activeFilter, setActiveFilter }: { activeFilter?: st
     const items = [
         {
             key: "Digital",
-            name: "Entrevistas",
+            name: "Contenidos",
             text: "",
             text2: ""
         },
@@ -26,19 +26,13 @@ export const FilterBar = ({ activeFilter, setActiveFilter }: { activeFilter?: st
         },
         {
             key: "Compol",
-            name: "BTS",
+            name: "Institucional",
             text: "",
             text2: ""
         },
         {
             key: "Coberturas",
-            name: "Contenidos",
-            text: "",
-            text2: ""
-        },
-        {
-            key: "Videoclips",
-            name: "Videoclips",
+            name: "Tango!",
             text: "",
             text2: ""
         },
